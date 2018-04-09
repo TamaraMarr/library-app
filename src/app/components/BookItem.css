@@ -1,0 +1,12 @@
+.collection .collection-item.avatar {
+    padding-left: 0;
+    padding: 25px;
+    overflow: hidden;
+}
+
+.BookItem_bookCover {
+    float: left;
+    margin-right: 25px;
+    width: 128px;
+}
+
